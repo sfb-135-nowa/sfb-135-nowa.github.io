@@ -69,8 +69,8 @@ show_related:
   talk: true
 
 reading_time: true
-section_pager: true
 sharing: true
+profile: false
 
 copyright_license:
   enable: false
