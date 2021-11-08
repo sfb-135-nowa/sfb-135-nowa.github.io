@@ -13,7 +13,7 @@ design:
   css_style:
   css_class:
 cta:
-  url: 'toolset'
+  url: 'project'
   label: Get started with the toolset
   icon_pack: fab
   icon: file
