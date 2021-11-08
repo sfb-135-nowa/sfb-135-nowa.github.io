@@ -12,31 +12,29 @@ font_size: L
 
 # SEO
 
-site_type: Organization
-local_business_type: ''
+site_type: Project
 org_name: ''
-description: My research group description.
+description: Infrastructure project for the CRC 135
 twitter: ''
 
 # Contact (edit or remove options as required)
-
-email: test@example.org
-phone: 888 888 88 88
+email: nowa@staff.uni-marburg.de
+# phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  street: Gutenbergstr. 18
+  city: Marburg
+  region: Hessen
+  postcode: '35032'
+  country: Germany
+  country_code: DE
+# coordinates:
+#   latitude: '37.4275'
+#   longitude: '-122.1697'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+# office_hours:
+#   - 'Monday 10:00 to 13:00'
+#   - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
@@ -44,7 +42,6 @@ contact_links:
 #    link: 'https://discourse.gohugo.io'
 
 # Site header
-
 main_menu:
   enable: true
   align: r
@@ -55,25 +52,26 @@ main_menu:
   highlight_active_link: false
 
 # Localization
-
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+date_format: '2006-01-02'
+time_format: '15:04'
+address_format: de
 
 # Site features
-
 highlight: false
 math: false
 diagram: false
 privacy_pack: false
+
 show_related:
   post: true
   project: true
   publication: true
   talk: true
+
 reading_time: true
-section_pager: false
+section_pager: true
 sharing: true
+
 copyright_license:
   enable: false
   allow_derivatives: false
@@ -81,16 +79,20 @@ copyright_license:
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 plugins_js: []
+
 avatar:
   gravatar: false
   shape: circle
+
 publications:
   date_format: January 2006
   citation_style: apa
+
 projects:
   post_view: 2
   publication_view: 2
   talk_view: 2
+
 comments:
   provider: ''
   commentable:
@@ -100,9 +102,6 @@ comments:
     project: true
     publication: true
     talk: true
-  disqus:
-    shortname: ''
-    show_count: true
   commento:
     url: ''
 search:
@@ -116,15 +115,19 @@ map:
   provider: mapnik
   api_key: ''
   zoom: 15
-marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
+
 cms:
   branch: main
   local_backend: false
+
 icon:
   pack:
     ai: true
+
+edit_page:
+  repo_url: "https://github.com/sfb-135-nowa/sfb-135-nowa.github.io"
+  repo_branch: main
+  content_dir: content
+  editable:
+    book: true
+    post: true
