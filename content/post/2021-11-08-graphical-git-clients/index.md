@@ -37,5 +37,24 @@ As a member of an academic research group, you have a high chance to qualify for
 
 The software companies differ a bit in their pricing models and strategies.
 Some of them have an official application procedure for our use-case; others don't, but applicants can send an informal request via email.
-In the following sections, I describe my findings about various git programs and their licensing procedures.
+In this article I describe my findings about various git programs and their licensing procedures.
 
+## Gitkraken
+
+Gitkraken puts a strong emphasis on collaboration, teams, enterprises, less on individual users.
+There is a free edition, but it doesn't support self-hosted platforms like our NOWA Gitlab or private repos on any platform.
+It can be used locally, but you have to pull and push via command line.
+Their Pro Edition is not subject to these restrictions.
+The company doesn't offer a discount itself, but teachers and researchers (academic staff) can get a free Gitkraken Pro license through Github's [Teacher Toolbox].
+In order to apply, these steps are needed:
+
+1. [Join Github] with your university email. If you already have a Github account, [add and verify][email-settings] your university email.
+2. [Get the toolbox]. In addition to a valid school email, you have to upload an employment prove.
+3. Connect your github account with Gitkraken and enjoy the Pro features.
+
+## Git Tower
+
+[teacher toolbox]: https://education.github.com/toolbox
+[Join Github]: https://github.com/signup
+[email-settings]: https://github.com/settings/emails
+[get the toolbox]: https://education.github.com/benefits?type=teacher
