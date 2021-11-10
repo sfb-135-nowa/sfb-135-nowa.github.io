@@ -1,0 +1,28 @@
+{
+  "name": "sfb-135-nowa.github.io",
+  "version": "1.0.0",
+  "description": "A static website presenting the NOWA project of CRC 135",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier -w .",
+    "lint": "markdownlint-cli2",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfb-135-nowa/sfb-135-nowa.github.io.git"
+  },
+  "author": "Tamara Cook <tamara.cook@uni-marburg.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sfb-135-nowa/sfb-135-nowa.github.io/issues"
+  },
+  "homepage": "https://github.com/sfb-135-nowa/sfb-135-nowa.github.io#readme",
+  "devDependencies": {
+    "husky": "^6.0.0",
+    "lint-staged": "^11.2.6",
+    "markdownlint-cli2": "^0.3.2",
+    "prettier": "^2.4.1"
+  }
+}
