@@ -7,6 +7,6 @@ page_type: post
 count: 5
 order: desc
 filters:
-  category: "User Story"
+  category: 'User Story'
   view: 3
 ---

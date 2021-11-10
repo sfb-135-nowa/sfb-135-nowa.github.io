@@ -1,12 +1,12 @@
 ---
-title: "Towards a Standardized Research Folder Structure"
+title: 'Towards a Standardized Research Folder Structure'
 authors:
-- Julien Colomb
-- Thorsten Arendt
-- Keisuke Sehara
-- The Gin-Tonic team
-date: "2021-01-12"
-doi: "10.25815/WCY6-M233"
+  - Julien Colomb
+  - Thorsten Arendt
+  - Keisuke Sehara
+  - The Gin-Tonic team
+date: '2021-01-12'
+doi: '10.25815/WCY6-M233'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2021-11-09"
@@ -15,11 +15,11 @@ doi: "10.25815/WCY6-M233"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Generation Research*"
-publication_short: "*Gen R*"
+publication: '*Generation Research*'
+publication_short: '*Gen R*'
 
 abstract: >
   With the GIN-Tonic tool, we want to provide researchers with a default file organization and file sharing system for research projects, in order to facilitate research collaboration and lab management.
@@ -30,8 +30,8 @@ abstract: >
   Researchers from all research domains and country of origins are now invited to review this draft in a second survey.
 
 tags:
-- Tonic
-- File Structure
+  - Tonic
+  - File Structure
 featured: false
 
 # Associated Projects (optional).
@@ -50,5 +50,5 @@ slides:
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}

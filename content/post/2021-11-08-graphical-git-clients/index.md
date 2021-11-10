@@ -55,6 +55,6 @@ In order to apply, these steps are needed:
 ## Git Tower
 
 [teacher toolbox]: https://education.github.com/toolbox
-[Join Github]: https://github.com/signup
+[join github]: https://github.com/signup
 [email-settings]: https://github.com/settings/emails
 [get the toolbox]: https://education.github.com/benefits?type=teacher

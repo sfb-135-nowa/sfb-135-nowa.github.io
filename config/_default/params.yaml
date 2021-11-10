@@ -125,7 +125,7 @@ icon:
     ai: true
 
 edit_page:
-  repo_url: "https://github.com/sfb-135-nowa/sfb-135-nowa.github.io"
+  repo_url: 'https://github.com/sfb-135-nowa/sfb-135-nowa.github.io'
   repo_branch: main
   content_dir: content
   editable:

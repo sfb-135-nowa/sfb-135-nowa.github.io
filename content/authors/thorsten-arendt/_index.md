@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Thorsten Arendt"
+title: 'Thorsten Arendt'
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "thorsten-arendt"
+  - 'thorsten-arendt'
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,17 +14,17 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Philipps-University Marburg
-  url: ""
+  - name: Philipps-University Marburg
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests: []
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

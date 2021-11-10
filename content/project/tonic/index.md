@@ -1,22 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Tonic"
-summary: "A more standardized project folder structure"
+title: 'Tonic'
+summary: 'A more standardized project folder structure'
 authors: []
 tags: []
 categories: []
 date: 2021-11-08T07:54:53+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://gin-tonic.netlify.app"
+external_link: 'https://gin-tonic.netlify.app'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
 
 # Custom links (optional).
@@ -27,15 +27,15 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: ''
 ---
