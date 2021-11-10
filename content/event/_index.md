@@ -11,4 +11,7 @@ view: 2
 header:
   caption: ''
   image: ''
+outputs: [HTML, RSS, Calendar]
+cascade:
+  outputs: [HTML, Calendar]
 ---
