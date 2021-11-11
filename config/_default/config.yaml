@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: SFB 135 NOWA Project # Website name
-baseurl: 'sfb-135-nowa.github.io' # Website URL
+baseurl: 'https://sfb-135-nowa.github.io' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
