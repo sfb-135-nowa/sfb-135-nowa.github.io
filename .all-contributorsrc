@@ -9,6 +9,16 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "alexander-vielhauer",
+      "name": "Alexander Vielhauer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7085689?v=4",
+      "profile": "https://github.com/alexander-vielhauer",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
   "contributorsPerLine": 7
 }
