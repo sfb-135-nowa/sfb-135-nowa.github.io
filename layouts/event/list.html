@@ -11,7 +11,9 @@
       {{ end }}
 
       {{ with .OutputFormats.Get "Calendar" }}
-      <a class="btn btn-primary" href="webcal://{{ .RelPermalink }}">Save to calendar</a>
+      <ul class="cta-group">
+      <li><a class="btn btn-primary" href="webcal://{{ .RelPermalink }}">Save to calendar</a></li>
+    </ul>
       {{ end }}
 
       {{ range .Data.Pages.GroupByDate "2006" }}
