@@ -11,8 +11,8 @@
 
 # Hugo
 /resources/
-public/
-assets/jsconfig.json
+/public/
+/assets/jsconfig.json
 .hugo_build.lock
 
 # Created by https://www.toptal.com/developers/gitignore/api/node
