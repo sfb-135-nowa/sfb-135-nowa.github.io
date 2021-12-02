@@ -8,7 +8,7 @@
 
   {{ with .OutputFormats.Get "Calendar" }}
   <ul class="cta-group">
-  <li><a class="btn btn-primary" href="webcal://{{ .RelPermalink }}">Save to calendar</a></li>
+  <li><a class="btn btn-primary" href="{{ .RelPermalink }}">Save to calendar</a></li>
 </ul>
   {{ end }}
 

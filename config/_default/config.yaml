@@ -77,3 +77,11 @@ related:
       weight: 100
     - name: categories
       weight: 70
+mediaTypes:
+  text/calendar:
+    suffixes:
+      - ics
+outputFormats:
+  Calendar:
+    baseName: calendar
+    mediaType: text/calendar
