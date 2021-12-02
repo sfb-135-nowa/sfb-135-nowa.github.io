@@ -39,6 +39,14 @@ Even if you prefer the GUI, you should be able to run Git from the command line.
 It provides multiple tabs, custom command lines, more intuitive key bindings, color schemes etc.
 Please install Windows Terminal from the Windows Store.
 
+## NOWA Gitlab
+
+{{< cta cta_icon_pack="fab" cta_icon="gitlab" cta_text="Request an account for the NOWA Gitlab service" cta_link="mailto:nowa@staff.uni-marburg.de?subject=NOWA%20Gitlab%20registration%20request&body=Dear%20NOWA%20team%2C%0A%0APlease%20create%20a%20Gitlab%20account%20for%20me.%0A%0ABest%20regards%0AJ.%20Doe" cta_new_tab="false" >}}
+
+If you have got a Gitlab account, you can create new projects, upload work, and view other users' projects on Gitlab.
+In order to authenticate git with Gitlab, please create a [personal access token] in your account's preferences.
+This token will be used for Git operations in place of your account password.
+
 ## Git for Windows
 
 Please download and install the newest release of [Git for Windows][gfw].
@@ -65,6 +73,21 @@ Please adjust these settings when you proceed through the setup assistant:
 - Select the trial version
 - Please enter your proper name and email, because these are added to your contributions when you work with Git, they can't be changed afterwards, and they can be visible to others if you share your work
 
+You can add Gitlab as a service via Services -> Gitlab CE/E. Please enter these settings:
+
+Authentication
+: Personal Access Token
+
+Host
+: https://vhrz1125.hrz.uni-marburg.de/
+
+Username
+: Your Gitlab Username
+
+Personal Access Token
+: Your generated PAT
+
+[personal access token]: https://vhrz1125.hrz.uni-marburg.de/-/profile/personal_access_tokens
 [windows terminal]: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab
 [gfw]: https://gitforwindows.org
 [git tower]: https://www.git-tower.com/windows
