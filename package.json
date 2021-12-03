@@ -22,9 +22,9 @@
   "homepage": "https://github.com/sfb-135-nowa/sfb-135-nowa.github.io#readme",
   "devDependencies": {
     "all-contributors-cli": "^6.20.0",
-    "husky": "^6.0.0",
-    "lint-staged": "^11.2.6",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.1.2",
     "markdownlint-cli2": "^0.3.2",
-    "prettier": "^2.4.1"
+    "prettier": "^2.5.0"
   }
 }
