@@ -1,5 +1,6 @@
 /layouts/
 node_modules/
 /public/
+/renv/
 /report/
 /themes/

@@ -3,3 +3,4 @@
 /report/
 *.markdown
 node_modules/
+renv/

@@ -1,6 +1,7 @@
 globs: ['**/*.{md,Rmd,Rmarkdown}']
 ignores:
-  - public/
-  - themes/
-  - report/
   - node_modules/
+  - public/
+  - renv/
+  - report/
+  - themes/
