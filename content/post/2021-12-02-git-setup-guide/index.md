@@ -43,6 +43,16 @@ Please install Windows Terminal from the Windows Store.
 
 {{< cta cta_icon_pack="fab" cta_icon="gitlab" cta_text="Request an account for the NOWA Gitlab service" cta_link="mailto:nowa@staff.uni-marburg.de?subject=NOWA%20Gitlab%20registration%20request&body=Dear%20NOWA%20team%2C%0A%0APlease%20create%20a%20Gitlab%20account%20for%20me.%0A%0ABest%20regards%0AJ.%20Doe" cta_new_tab="false" >}}
 
+{{% callout warning %}}
+The NOWA Gitlab instance is exclusively reserved for direct or indirect members of the CRC/TRR 135.
+Other members of Philipps-University of Marburg are invited to try out the new [Gitlab service] provided by the HRZ.
+Please remember to use your university email for registration requests and maybe elaborate a bit on your relationship with the CRC (project, work group).
+Thanks in advance.
+
+[gitlab service]: https://www.uni-marburg.de/en/hrz/services/version-management
+
+{{% /callout %}}
+
 If you have got a Gitlab account, you can create new projects, upload work, and view other users' projects on Gitlab.
 In order to authenticate git with Gitlab, please create a [personal access token] in your account's preferences.
 This token will be used for Git operations in place of your account password.
