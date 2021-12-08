@@ -52,7 +52,7 @@ links:
     url: https://terminplaner.dfn.de/Le28LJbXkSi9STLh
 
 # Optional filename of your slides within your event's folder or a URL.
-# url_slides: slides.html
+url_slides: slides.html
 
 url_code:
 url_pdf:
