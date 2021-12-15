@@ -50,6 +50,8 @@ image:
 links:
   - name: 🗳 Poll for date/time
     url: https://terminplaner.dfn.de/Le28LJbXkSi9STLh
+  - name: Written Course
+    url: /course/git-basics
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides: slides.html

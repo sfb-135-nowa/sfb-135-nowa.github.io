@@ -8,8 +8,8 @@ main:
   - name: Trainings
     url: event
     weight: 40
-  - name: Learn
-    url: learn
+  - name: Courses
+    url: course
     weight: 50
   - name: Contact
     url: contact

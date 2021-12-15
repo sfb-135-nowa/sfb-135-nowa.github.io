@@ -131,3 +131,5 @@ edit_page:
   editable:
     book: true
     post: true
+docs_section_pager:
+  book: true
