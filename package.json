@@ -23,8 +23,8 @@
   "devDependencies": {
     "all-contributors-cli": "^6.20.0",
     "husky": "^7.0.4",
-    "lint-staged": "^12.1.2",
-    "markdownlint-cli2": "^0.3.2",
-    "prettier": "^2.5.0"
+    "lint-staged": "^12.3.4",
+    "markdownlint-cli2": "^0.4.0",
+    "prettier": "^2.5.1"
   }
 }
