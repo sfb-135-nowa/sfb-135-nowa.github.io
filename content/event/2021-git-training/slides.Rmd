@@ -221,3 +221,5 @@ Divergence
 ## Thanks for your attention
 
 [research project template]: https://vhrz1125.hrz.uni-marburg.de/nowa/tonic-research-project-template
+
+<!-- markdownlint-disable-file single-h1 -->

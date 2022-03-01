@@ -41,6 +41,8 @@ Please install Windows Terminal from the Windows Store.
 
 ## NOWA Gitlab
 
+<!-- markdownlint-disable-next-line line-length -->
+
 {{< cta cta_icon_pack="fab" cta_icon="gitlab" cta_text="Request an account for the NOWA Gitlab service" cta_link="mailto:nowa@staff.uni-marburg.de?subject=NOWA%20Gitlab%20registration%20request&body=Dear%20NOWA%20team%2C%0A%0APlease%20create%20a%20Gitlab%20account%20for%20me.%0A%0ABest%20regards%0AJ.%20Doe" cta_new_tab="false" >}}
 
 {{% callout warning %}}
@@ -63,7 +65,8 @@ Please download and install the newest release of [Git for Windows][gfw].
 When you go through the installer, please adjust the following settings:
 
 - Activate the “Add a Git Bash Profile to Windows Terminal” component
-- Choose a default text editor which is installed on your computer. Git uses this editor to ask for text input, if it is run from command line. If you're in doubt, simply choose Notepad.
+- Choose a default text editor which is installed on your computer. Git uses this editor to ask for text input, if it is run from command line.
+  If you're in doubt, simply choose Notepad.
 - Select “Override the default branch name for new git repositories” and leave the input field set to “main”
 
 ## Running Git commands
@@ -81,7 +84,8 @@ Please download and install [Git Tower], the graphical interface used in this co
 Please adjust these settings when you proceed through the setup assistant:
 
 - Select the trial version
-- Please enter your proper name and email, because these are added to your contributions when you work with Git, they can't be changed afterwards, and they can be visible to others if you share your work
+- Please enter your proper name and email, because these are added to your contributions when you work with Git,
+  they can't be changed afterwards, and they can be visible to others if you share your work
 
 You can add Gitlab as a service via Services -> Gitlab CE/E. Please enter these settings:
 
@@ -89,7 +93,7 @@ Authentication
 : Personal Access Token
 
 Host
-: https://vhrz1125.hrz.uni-marburg.de/
+: <https://vhrz1125.hrz.uni-marburg.de/>
 
 Username
 : Your Gitlab Username

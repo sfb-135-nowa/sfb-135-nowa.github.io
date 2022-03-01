@@ -79,7 +79,7 @@ projects: [gitlab]
 
 During the course, I'll demonstrate Git usage.
 If you want to reproduce my examples, you should have a computer running Git at hand.
-Please see [this setup guide]({{<ref "../../post/2021-12-02-git-setup-guide">}}) for instructions.
+Please see [this setup guide][setup guide] for instructions.
 
 09:00
 : Welcome and getting prepared
@@ -101,3 +101,5 @@ Please see [this setup guide]({{<ref "../../post/2021-12-02-git-setup-guide">}})
 
 12:45
 : End, time for questions
+
+[setup guide]: {{< ref "../../post/2021-12-02-git-setup-guide" >}}

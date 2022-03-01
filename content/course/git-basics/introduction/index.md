@@ -10,7 +10,8 @@ type: book
 ## Motivation
 
 Git is a tool that has been designed to facilitate collaborative Open Source software development.
-Though you probably don't write code for OSS, this perspective might help you to understand the role that git plays in a project's workflow and for which work scenarios it is appropriate.
+Though you probably don't write code for OSS, this perspective might help you to understand the role that git plays in a project's workflow
+and for which work scenarios it is appropriate.
 
 ### Version History
 
@@ -36,7 +37,8 @@ I recommend Git users to get accustomed to the assumption that all your work in 
 If too many contributors collaborate on a simple shared file or folder,
 their apps have to refresh very frequently, or they start to overwrite each other's work.
 Both outcomes can undermine productivity.
-To overcome these problems, Git has a very sophisticated feature for parallelized history which enables collaborators to work on their feature at the same time and re-integrate everything after being ready.
+To overcome these problems, Git has a very sophisticated feature for parallelized history
+which enables collaborators to work on their feature at the same time and re-integrate everything after being ready.
 Git users are not forced to just keep one linear history and throw away everything else.
 
 ### Flexible

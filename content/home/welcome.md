@@ -24,6 +24,7 @@ cta_alt:
   label: See upcoming trainings and events
 ---
 
+<!-- markdownlint-disable-next-line no-inline-html -->
 <br>
 
 **NOWA** (Neuroscientific Workflow Assistance) is the [infrastructure project][sfb135-inf] of the CRC 135.

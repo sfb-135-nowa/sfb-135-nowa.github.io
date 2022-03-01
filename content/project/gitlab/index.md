@@ -40,6 +40,8 @@ url_video: ''
 slides: ''
 ---
 
+<!-- markdownlint-disable-next-line line-length -->
+
 {{< cta cta_icon_pack="fab" cta_icon="gitlab" cta_text="Send an email to request registration" cta_link="mailto:nowa@staff.uni-marburg.de?subject=NOWA%20Gitlab%20registration%20request&body=Dear%20NOWA%20team%2C%0A%0APlease%20create%20a%20Gitlab%20account%20for%20me.%0A%0ABest%20regards%0AJ.%20Doe" cta_new_tab="false" >}}
 
 {{% callout warning %}}

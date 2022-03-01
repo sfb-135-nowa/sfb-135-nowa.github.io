@@ -145,3 +145,5 @@ and lets you concentrate on the relevant parts of your work.
 You can do yourself and others a great favor by setting up good gitignore files.
 
 [gitignore docs]: https://git-scm.com/docs/gitignore
+
+<!-- markdownlint-disable-file no-inline-html -->

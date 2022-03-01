@@ -163,6 +163,6 @@ Git can compare two arbitrary commits referenced by ID, branch or tag with `git 
 The result is reported in the [diff] format like with `git show` and contains the changes that _y_ would apply to _x_.
 You can also use `git log x..y` to report commits in _y_ that _x_ doesn't contain.
 
-[history page](https://vhrz1125.hrz.uni-marburg.de/tcook/empirical-round/-/commits/main/)
+[history page]: https://vhrz1125.hrz.uni-marburg.de/tcook/empirical-round/-/commits/main/
 [diff]: https://en.wikipedia.org/wiki/Diff#Unified_format
 [viewing the commit history]: https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History

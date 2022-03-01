@@ -20,5 +20,7 @@ During the next funding phase, NOWA will provide more code and data quality trai
 Planned events will be added to this section.
 
 {{% callout note %}}
-You can [subscribe]({{< ref "." "Calendar" >}}) to the NOWA calendar to receive updates directly in your calendar app.
+You can [subscribe] to the NOWA calendar to receive updates directly in your calendar app.
 {{% /callout %}}
+
+[subscribe]: {{< ref "." "Calendar" >}}
