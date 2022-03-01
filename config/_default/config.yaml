@@ -85,3 +85,6 @@ outputFormats:
   Calendar:
     baseName: calendar
     mediaType: text/calendar
+security:
+  funcs:
+    getenv: ['^HUGO', '^WC_']
