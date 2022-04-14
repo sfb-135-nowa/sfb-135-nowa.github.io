@@ -1,6 +1,0 @@
-/public/
-/themes/
-/report/
-*.markdown
-node_modules/
-renv/

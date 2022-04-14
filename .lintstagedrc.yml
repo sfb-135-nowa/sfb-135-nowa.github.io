@@ -1,2 +1,0 @@
-'*': 'prettier -w -u'
-'*.{md,Rmd,Rmarkdown}': markdownlint --fix
